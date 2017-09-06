@@ -6,6 +6,4 @@ Display English soccer league teams and soccer players. A user can navigate thro
 2) `npm run build-watch`
 3) `npm start`
 
-#Currently it can navigate through 
-
-/Users/joonkim/Desktop/Screen Shot 2017-09-02 at 7.46.00 PM.png
+# Currently it can navigate through teams => team > players => player
